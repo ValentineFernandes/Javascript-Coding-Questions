@@ -7,3 +7,4 @@
 5. <a href="https://github.com/ValentineFernandes/Javascript-Coding-Questions/blob/main/closure.js">How to explain closures in JavaScript and when to use it ?</a>
 6. <a href="https://github.com/ValentineFernandes/Javascript-Coding-Questions/blob/main/style.js">How can style/class of an element be changed ?</a>
 7. <a href="https://github.com/ValentineFernandes/Javascript-Coding-Questions/blob/main/anagram.js">Given two strings, return true if they are anagrams of one another. Write code.</a>
+8. <a href="https://github.com/ValentineFernandes/Javascript-Coding-Questions/blob/main/strings.js">Write code to convert an array of strings to an array of the lengths of those strings.</a>
